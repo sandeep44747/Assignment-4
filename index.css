@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.title{
+    color: brown;
+    font-family:'Times New Roman', Times, serif;
+    word-spacing: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#main-container{
+    background-color: rgb(63, 56, 56);
+}
+#lists{
+    
+    margin-left: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#week{
+    font-size: large;
+    color: honeydew;
+}
+#month{
+    color: whitesmoke;
+    font-size: large;
+}
+dt{
+    font-size: larger;
+    color: aqua;
+    font-weight: 1000;
+    
+}
+dd{
+    font-size: large;
+    color:rgb(9, 201, 201);
+}
+.seas{
+    color: aquamarine;
+    font-size: larger;
+    font-weight: 800;
+}
+.months{
+    color: rgb(14, 185, 128);
+    font-size: large;
+    font-weight: 500;
+}

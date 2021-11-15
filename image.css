@@ -1,0 +1,22 @@
+*{
+    background:pink;
+}
+#text{
+    border: 2px solid black;
+    width: 100vh;
+    border-radius: 10px;
+    font-size: large;
+    padding: 15px;
+}
+#main-container{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    margin-top: 20px;
+}
+#img{
+    
+    box-sizing: border-box;
+    margin-left: 2px;
+
+}
